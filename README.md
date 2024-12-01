@@ -13,6 +13,7 @@
 
 ## Connect with me
 
-[![LinkedIn](https://img.icons8.com/ios/50/0077b5/linkedin.png)](https://www.linkedin.com/in/dev-patel-169496322/)
-[![GitHub](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/Dev2139)
-[![Instagram](https://img.icons8.com/ios/50/0000ff/instagram.png)](https://www.instagram.com/dev_patel_2139)
+[![LinkedIn](https://img.icons8.com/ios/50/ffffff/linkedin.png)](https://www.linkedin.com/in/dev-patel-169496322/)
+[![GitHub](https://img.icons8.com/ios/50/ffffff/github.png)](https://github.com/Dev2139)
+[![Instagram](https://img.icons8.com/ios/50/ffffff/instagram.png)](https://www.instagram.com/dev_patel_2139)
+
