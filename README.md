@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dev Patelj</h1>
-<h3 align="center">A passionate Full-stack Engineering student From India</h3>
+<h1 align="center">Hi 👋, I'm Dev Patel</h1>
+<h3 align="center">A passionate Full-stack Engineering student from India</h3>
 
 
 
@@ -10,3 +10,7 @@
 - 📫 How to reach me: dev.patel.codinggita@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: "A college student always learning and exploring new skills."
+
+## Connect with me
+
+[![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/surajraaz1998)
