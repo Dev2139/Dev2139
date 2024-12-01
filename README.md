@@ -8,7 +8,6 @@
 - 👯 I’m seeking for help on Integration of Payment Gateway in Onlie Website
 - 💬 Ask me about HTML,CSS,NodeJS,Javascript,Python
 - 📫 How to reach me: dev.patel.codinggita@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: "A college student always learning and exploring new skills."
 
 ## Connect with me
