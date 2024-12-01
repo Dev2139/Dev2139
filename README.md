@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on TravelDiaries(A personal Onine Travel Journal )
+- 🔭 I’m currently working on TravelDiaries(A personal Onine Travel Journal Website)
 - 🌱 I’m currently learning (Full-stack Development,Al-ML)
 - 👯 I’m seeking for help on Integration of Payment Gateway in Onlie Website
 - 💬 Ask me about HTML,CSS,NodeJS,Javascript,Python
