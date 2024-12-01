@@ -1,5 +1,5 @@
-##                           Hi there 👋, I am Dev Patel
-###              A passionate Full-stack Engineering student from India
+<h1 align="center">Hi 👋, I'm Dev Patelj</h1>
+<h3 align="center">A passionate Full-stack Engineering student From India</h3>
 
 
 
