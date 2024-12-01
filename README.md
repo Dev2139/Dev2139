@@ -16,7 +16,3 @@
 [![LinkedIn](https://img.icons8.com/ios/32/0077b5/linkedin.png)](https://www.linkedin.com/in/dev-patel-169496322/)
 [![GitHub](https://img.icons8.com/ios/32/000000/github.png)](https://github.com/Dev2139)
 [![Instagram](https://img.icons8.com/ios/32/0000ff/instagram.png)](https://www.instagram.com/dev_patel_2139)
-[![LeetCode](https://img.icons8.com/ios/32/000000/leetcode.png)](https://leetcode.com/)
-[![HackerRank](https://img.icons8.com/ios/32/000000/hackerrank.png)](https://www.hackerrank.com/)
-
-
