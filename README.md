@@ -1,5 +1,5 @@
-## Hi there 👋, I am Dev Patel
-### A passionate Full-stack Engineering student from India
+##                           Hi there 👋, I am Dev Patel
+###              A passionate Full-stack Engineering student from India
 
 
 
