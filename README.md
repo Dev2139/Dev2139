@@ -13,4 +13,5 @@
 
 ## Connect with me
 
-[![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/surajraaz1998)
+[![LinkedIn](https://img.icons8.com/ios/50/0077b5/linkedin.png)](https://www.linkedin.com/in/dev-patel-169496322/)
+
