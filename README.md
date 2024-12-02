@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on TravelDiaries(A personal Onine Travel Journal Website)
 - 🌱 I’m currently learning (Full-stack Development,Al-ML)
-- 👯 I’m seeking for help on Integration of Payment Gateway in Onlie Website
+- 👯 I’m seeking for help on Integration of Payment Gateway in Online Website
 - 💬 Ask me about HTML,CSS,NodeJS,Javascript,Python
 - 📫 How to reach me: dev.patel.codinggita@gmail.com
 - ⚡ Fun fact: "A college student always learning and exploring new skills."
