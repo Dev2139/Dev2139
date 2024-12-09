@@ -1,17 +1,27 @@
-<h1 align="center">Hi 👋, I'm Dev Patel</h1>
-<h3 align="center">A passionate Full-stack Engineering student from India</h3>
+# 💫 About Me:
+Turing-Team
 
 
+## 🌐 Socials:
 
-- 🔭 I’m currently working on TravelDiaries(A personal Onine Travel Journal Website)
-- 🌱 I’m currently learning (Full-stack Development,Al-ML)
-- 👯 I’m seeking for help on Integration of Payment Gateway in Online Website
-- 💬 Ask me about HTML,CSS,NodeJS,Javascript,Python
-- 📫 How to reach me: dev.patel.codinggita@gmail.com
-- ⚡ Fun fact: "A college student always learning and exploring new skills."
 
-## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/ali-safi2003?trk=contact-info](https://www.linkedin.com/in/dev-patel2139/)) 
+#
 
-[![LinkedIn](https://img.icons8.com/ios/32/0077b5/linkedin.png)](https://www.linkedin.com/in/dev-patel-169496322/)
-[![GitHub](https://img.icons8.com/ios/32/000000/github.png)](https://github.com/Dev2139)
-[![Instagram](https://img.icons8.com/ios/32/0000ff/instagram.png)](https://www.instagram.com/dev_patel_2139)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ali1Safi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ali1Safi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali1Safi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ali1Safi&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ali1Safi&icon=2&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
