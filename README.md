@@ -1,11 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://judeotine.vercel.app/)
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=4F67F7&center=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Dev Patel!" alt="Typing SVG" /></a>
-</p>
+
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=EAF70A&center=true&vCenter=true&width=800&height=30&lines=FullStack+Depeloper+from+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=EAF70A&center=true&vCenter=true&width=800&height=30&lines=FullStack+Depeloper alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Statistic:</h2>
 <div align="center">
