@@ -1,5 +1,10 @@
 <h1 align="center">Dev Patel</h1>
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://judeotine.vercel.app/)
+
+<p align="center">
+  <a href="https://judeotine.vercel.app/">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Header Animation"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,18 +12,24 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+</p>
 
-<h2 align="left">⚡ Statistics:</h2>
+## ⚡ Statistics:
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev2139&theme=github_dark" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev2139&theme=github_dark" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev2139&theme=github_dark" height="180em" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+</p>
 
-<h2 align="left">⚡ Activity Graph:</h2>
+## ⚡ Activity Graph:
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev2139&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
